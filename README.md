@@ -10,7 +10,7 @@ On your desktop, create two new folders. Name one *PermDir* and the other *Worki
 ### Code Setup
 In the parapeterEntryUI.py file find lines 17, 217, and 233 and change their paths appropriately:
 - Line 17: point to the *PermDir* folder
-- Line 217: point to any destination that you wish the log file to be written to (e.g. C:\\Users\\USERNAME\\Desktop\\Log.txt)
+- Line 217: point to any destination that you wish the log file to be written to (e.g. C:\\\Users\\\USERNAME\\\Desktop\\\Log.txt)
 - Line 233: point to the *Working Dir* folder
 
 # Writing Code for parameterEntryUI
